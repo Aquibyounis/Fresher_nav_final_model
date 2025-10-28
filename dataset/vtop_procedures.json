@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Apply for leave on VTOP",
+    "category": "VTOP",
+    "type": "procedure",
+    "text": "1. Sign in to VTOP with your credentials.\n2. Open the left-side menu and click on 'Hostels'.\n3. Select 'General Outing' or 'Leave'.\n4. Fill in the details and submit.\n5. Wait for mentor and warden approval.\n6. Download the leave form from your application table.",
+    "tags": "leave,vtop,hostels,outing"
+  },
+  {
+    "title": "Check Time Table on VTOP",
+    "category": "VTOP",
+    "type": "procedure",
+    "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Academics.\n3. Click on 'Time Table'.\n4. Select the semester from the dropdown.\n5. View courses, professors, timings, and venues.",
+    "tags": "timetable,academics,vtop"
+  },
+  {
+    "title": "Raise complaints in VTOP",
+    "category": "VTOP",
+    "type": "procedure",
+    "text": "1. Sign in to VTOP.\n2. Open VTOP Menu → Feedback → Apply Complaint.\n3. Fill in the required details.\n4. Track complaint resolution and give feedback once it is solved.",
+    "tags": "complaint,feedback,vtop,maintenance"
+  },
+  {
+    "title": "Check Attendance on VTOP",
+    "category": "VTOP",
+    "type": "procedure",
+    "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Academics.\n3. Click on 'Class Attendance'.\n4. Select the semester from the dropdown.\n5. View attendance percentage for each course.",
+    "tags": "attendance,academics,vtop"
+  },
+{
+        "title": "Check Exam Results on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Examination.\n3. Click on 'Marks'.\n4. Select the semester from the dropdown.\n5. View marks for each course.",
+        "tags": "exam,results,marks,vtop"
+    },
+    {
+        "title": "View your Personal Information on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Profile.\n3. Click on 'View Profile'.\n4. Check your personal information such as address, phone number, etc.",
+        "tags": "profile,view,personal,vtop"
+    },
+    {
+        "title": "View your Educational Information on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Profile.\n3. Click on 'View Profile'.\n4. Check your educational information such as courses, grades, etc.",
+        "tags": "profile,view,educational,vtop"
+    },
+    {
+        "title": "View your Mentor Information on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Mentor.\n3. Click on 'Mentor Details'.\n4. Check your mentor information such as name, contact details, etc.",
+        "tags": "proctor,view,mentor,vtop"
+    },
+    {
+        "title": "View Academic Calendar on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Academics.\n3. Click on 'Academics Calendar'.\n4. Select the semester from the dropdown and select the class group and month.\n5. View important dates and events for the semester.",
+        "tags": "events,calendar,academics,vtop"
+    },
+    {
+        "title": "Check your biometric details on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Info Corner.\n3. Click on 'Biometric Log'.\n4. Select date and click on search. View your biometric history such as check-in/check-out times, class attendance etc.",
+        "tags": "biometric,attendance,vtop,checkin,checkout"
+    },
+    {
+        "title": "View and know about your faculty on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Academics.\n3. Click on 'Faculty info'.\n4. Search by enter the faculty name and view details about your faculty members.",
+        "tags": "faculty,view,vtop,academics"
+    },
+    {
+        "title": "Check your exam schedule on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Examination.\n3. Click on 'Exam Schedule'.\n4. Select the semester from the dropdown and view your exam schedule.",
+        "tags": "exam,schedule,vtop"
+    },
+    {
+        "title": "Know your academic regulations on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Academics.\n3. Click on 'Regulations'.\n4. View the academic regulations and policies.",
+        "tags": "regulations,policies,vtop,academics"
+    },
+    {
+        "title": "Check your academic curriculum on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Academics.\n3. Click on 'My Curriculum'.\n4. View your academic curriculum including subjects, credits, and syllabus.",
+        "tags": "curriculum,academics,vtop"
+    },
+    {
+        "title": "Check your credits distribution on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Academics.\n3. Click on 'My Credits Distribution'.\n4. View the distribution of credits across different categories and courses.",
+        "tags": "credits,academics,vtop,courses"
+    },
+    {
+        "title": "Check your syllabus on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Academics.\n3. Click on 'Course Page'.\n4. Select the semester, course, slot and faculty from the dropdown and view the syllabus for the selected course.",
+        "tags": "syllabus,academics,vtop,course"
+    },
+    {
+        "title": "Upload your digital assignments on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Academics.\n3. Click on 'Digital Assignments Upload'.\n4. Select the semester and course and upload your digital assignments.",
+        "tags": "upload,assignments,vtop,academics"
+    },
+    {
+        "title": "Check your grades on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Examination.\n3. Click on 'Grades'.\n4. Select the semester and view your grades.",
+        "tags": "view,grades,vtop,academics"
+    },
+    {
+        "title": "Check your current CGPA on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Examination.\n3. Click on 'Grade History'.\n4. View your all semester grades and current CGPA.",
+        "tags": "view,cgpa,vtop,academics"
+    },
+    {
+        "title": "Check your exam timetable on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Examination.\n3. Click on 'Examination Schedule'.\n4. Select the semester and view your exam timetable.",
+        "tags": "exam,timetable,vtop"
+    },
+    {
+        "title": "Check your arrear details on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Examination.\n3. Click on 'Arrear/ReFAT Details'.\n4. View your arrear details such as registration, exam schedule, grade view, paper seeing, evaluation etc.",
+        "tags": "exam,results,vtop,arrears,evaluation"
+    },
+    {
+        "title": "Upload your attendance relaxation form on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Services.\n3. Click on 'Attendance Relaxation Form'.\n4. Fill in the required details and upload the form.",
+        "tags": "exam,relaxation-form,vtop,attendance"
+    },
+    {
+        "title": "Pay the college related fees on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Online Payments.\n3. Click on 'Payments'.\n4. Select the payment type such as tuition fee, hostel fee etc., and submit the payment.",
+        "tags": "fees,payment,vtop,payments"
+    },
+    {
+        "title": "Check your payment history on VTOP",
+        "category": "VTOP",
+        "type": "procedure",
+        "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Online Payments.\n3. Click on 'Payment Receipts'.\n4. View your payment history including payment type, amount, date etc. and download the receipts.",
+        "tags": "fees,payment,vtop,history"
+    }
+]

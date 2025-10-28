@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Placement Assistance Training (PAT) Overview",
+    "category": "Placements",
+    "type": "info",
+    "text": "1. All placement-related activities at VIT-AP are coordinated through the Placement Assistance Training (PAT) cell.\n2. PAT provides training in aptitude, technical skills, communication, and interview preparation.\n3. The Career Development Center (CDC) works alongside PAT to bring companies and industry experts to campus.\n4. Students are required to complete PAT training modules before sitting for placements.",
+    "tags": "placements,PAT,CDC,training"
+  },
+  {
+    "title": "Placement Registration Process",
+    "category": "Placements",
+    "type": "procedure",
+    "text": "1. Placement registration at VIT-AP is voluntary.\n2. Register through the CDC portal when registration opens.\n3. Pay the applicable PAT registration fee.\n4. Complete mandatory PAT training sessions before company tests.\n5. Update your resume in the CDC-approved format.\n6. Attend mock interviews and training workshops as per CDC schedule.\n7. Follow company-specific instructions shared via the CDC portal and email.",
+    "tags": "placements,registration,procedure,CDC"
+  },
+  {
+    "title": "PAT Registration Fees",
+    "category": "Placements",
+    "type": "info",
+    "text": "The placement registration is voluntary and the fee structure (inclusive of GST) is:\n\n- B.Tech (All branches): ₹8000\n- M.Tech (2-year & 5-year): ₹7000\n- M.Sc (2-year): ₹4000",
+    "tags": "placements,PAT,fees,registration"
+  },
+  {
+    "title": "Placement Registration Eligibility Criteria",
+    "category": "Placements",
+    "type": "policy",
+    "text": "Eligible Courses & Branches:\n- B.Tech (All)\n- 2-year M.Tech (All)\n- 5-year M.Tech. \nEligibility Criteria:\nFor B.Tech:\n- Minimum 6 CGPA and no current backlogs (No F or N grade).\n- Completion of STS3007 and registration of STS4006 for BCE (except BCB).\n- Completion of CSE2025 for BCE and BCB.\n- Completion of STS3006 and registration of STS4005 for BEC, BME.\n- Completion of CSE2027 for BEC.\n- Completion of CSE2028 for BME.\n- Completion of minimum 11 exercises in Lit Coder platform.\n\nFor M.Tech (5-year):\n- Minimum 6 CGPA and no current backlogs.\n- Completion of STS3004 and registration of STS4003 for MIC and MIS.\n- Completion of minimum 11 exercises in Lit Coder platform.\n\nFor M.Tech (2-year) & M.Sc (2-year):\n- Minimum 6 CGPA and no current backlogs.\n- Completion of minimum 11 exercises in Lit Coder platform.",
+    "tags": "placements,eligibility,PAT,registration,criteria"
+  },
+  {
+    "title": "Communication Guidelines for Placements",
+    "category": "Placements",
+    "type": "policy",
+    "text": "1. For placement related queries, email patqueries.ap@vitap.ac.in.\n2. For training, certifications, internships, and Lit Coder, email training.cdc@vitap.ac.in.\n3. Do not send the same query to multiple email IDs.\n4. Do not contact CDC team members via personal emails or mobile numbers.\n5. Do not keep CC to CDC team members in your emails.\n6. Violation of these rules will result in permanent removal from placement training and loss of CDC portal access.\n7. CDC office visiting hours: Tuesday to Saturday, 11:00 AM – 12:00 PM and 4:00 PM – 5:00 PM.",
+    "tags": "placements,CDC,PAT,communication,policy"
+  },
+  {
+    "title": "Placement Norms and Multiple Offers",
+    "category": "Placements",
+    "type": "policy",
+    "text": "1. Students selected by any company for placements will be eligible for 2X CTC offers and above.\n2. Eligible for Dream (Core) offers if the CTC is less than 10 LPA or specified as 'Dream (Core)'.\n3. If selected for an internship with conversion CTC above 10 LPA (Super Dream Internship), students remain eligible for higher offers.\n4. If selected for an internship below 10 LPA (Dream Internship), eligibility continues for 2X and above offers or placements above 6 LPA.\n5. Students must adhere to all PAT/CDC norms for eligibility.",
+    "tags": "placements,norms,eligibility,internship,offers"
+  },
+  {
+    "title": "Placement Preparation Tips",
+    "category": "Placements",
+    "type": "info",
+    "text": "1. Regularly practice aptitude and logical reasoning.\n2. Brush up on coding, data structures, and core technical subjects.\n3. Build strong communication and interview skills through CDC workshops.\n4. Participate in hackathons, projects, and internships to strengthen your resume.\n5. Maintain professional etiquette during pre-placement talks and interviews.",
+    "tags": "placements,preparation,PAT,tips,CDC"
+  },
+  {
+    "title": "Placement Training Modules",
+    "category": "Placements",
+    "type": "info",
+    "text": "1. PAT training includes modules on aptitude, technical skills, communication, and interview preparation.\n2. Training sessions are conducted by experienced trainers and industry experts.\n3. Students must attend all mandatory training sessions to be eligible for placements.\n4. Additional resources and practice materials are provided through the CDC portal.",
+    "tags": "placements,PAT,training,modules"
+  },
+  {
+    "title": "Career Development Center (CDC) Role",
+    "category": "Placements",
+    "type": "info",
+    "text": "1. The CDC coordinates with companies to bring placement opportunities to campus.\n2. It organizes pre-placement talks, interviews, and training sessions.\n3. CDC provides career counseling and guidance to students.\n4. It maintains the CDC portal for placement registration and updates.",
+    "tags": "placements,CDC,role,career"
+  },
+  {
+    "title": "Placement Statistics and Company Profiles",
+    "category": "Placements",
+    "type": "info",
+    "text": "1. Placement statistics, including company profiles and past placement records, are available on the CDC portal.\n2. Students can review this information to prepare for specific companies.\n3. Regular updates on upcoming companies and placement drives are shared via email.",
+    "tags": "placements,statistics,company,profiles"
+  },
+  {
+    "title": "Super Dream and Dream Offer Guidelines",
+    "category": "Placements",
+    "type": "info",
+    "text": "1. Super Dream offers are available for students with exceptional skills and achievements.\n2. Super Dream Offers typically have a CTC of 10 LPA and above while Dream Offers have a CTC 6-10 LPA. Super Dream offers: CTC ≥ 10 LPA; Dream offers: CTC between 6–10 LPA. \n3. Students are encouraged to showcase their projects, internships, and skills during the placement process.\n4. Regular workshops and sessions are conducted to help students prepare for these high-value offers.",
+    "tags": "placements,super dream,dream offers,guidelines"
+  }
+]

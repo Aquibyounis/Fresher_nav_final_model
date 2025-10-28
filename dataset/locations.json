@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Central Library",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The Central Library is located at 2nd Floor, Academic Block 1 (AB1).\n2. Timings: 9:00 AM – 7:30 PM (Tuesday–Saturday), 9:00 AM – 5:00 PM (on Sunday and Monday).\n3. Facilities: book borrowing, digital library, printing, and scanning.\n4. Student ID is mandatory for entry and borrowing books.",
+    "tags": "library,locations,resources,study"
+  },
+  {
+    "title": "Health Center",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The Health Center is situated at AB1 Ground Floor.\n2. Timings: 9:00 AM – 5:00 PM (weekdays).\n3. Services include consultations, first aid, health check-ups, and emergency care.\n4. For emergencies, call campus ambulance service or contact security. Emergency contact: +91 7997965623",
+    "tags": "medical,health,locations,emergency"
+  },
+  {
+    "title": "Student Activity Center (SAC) and Sports Facilities",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Indoor sports facilities are located at the Student Activity Center (SAC).\n2. Facilities: gym, indoor sports courts (badminton, table tennis, chess, carroms, mountaineering), and multipurpose hall.\n3. Open from 5:00 AM – 9:00 PM daily.\n4. Access requires student ID and proper sports attire.",
+    "tags": "sac,sports,gym,locations,students"
+  },
+  {
+    "title": "Auditorium",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The main auditorium is located at 3rd Floor AB2.\n2. Used for cultural events, fests, and seminars.\n3. Seating capacity: 600.",
+    "tags": "auditorium,events,locations"
+  },
+  {
+    "title": "Student Record Section",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The Student Record Section is located at 321 AB1.\n2. It handles all student-related documentation and records.\n3. Operating hours: 9:00 AM – 6:00 PM (Tuesday–Saturday), closed on Sundays and Mondays.",
+    "tags": "student records,locations,administration"
+  },
+  {
+    "title": "Bank and ATM",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The Indian Bank branch is located at the ground floor of AB2.\n2. ATM services are available 24/7 in all the three academic blocks CB, AB1 and AB2.\n3. Services include cash withdrawal, deposits, and balance inquiries can be made through ATM.",
+    "tags": "bank,atm,locations,finance"
+  },
+  {
+    "title": "Food Street",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The Food Street is located at back side of Central Block(CB).\n2. Operating hours: 9:00 AM – 8:30 PM daily.\n3. Offers a variety of cuisines including vegetarian and non-vegetarian options.",
+    "tags": "food street,cafeteria,food courts,locations,meals"
+  },
+  {
+    "title": "Post-Office",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The campus post-office is located at the ground floor of AB1.\n2. Services include mail and parcel handling, courier services, and postal banking.\n3. Operating hours: 9:00 AM – 6:00 PM (Monday–Saturday), closed on Sundays and Mondays.",
+    "tags": "post-office,locations,mail,services"
+  },
+  {
+    "title": "Admission and Counseling Office",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The Admission and Counseling Office is located at the ground floor of AB1.\n2. Provides assistance with admission procedures, course selection, and academic counseling.\n3. Operating hours: 9:00 AM – 6:00 PM (Monday–Saturday), closed on Sundays.",
+    "tags": "admission,counseling,locations,students"
+  },
+  {
+    "title": "Xerox and Stationery Services",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Xerox and Stationery Services are located at 4th floor of Central Block(CB).\n2. Provides photocopying, printing, and stationery supplies.\n3. Operating hours: 8:00 AM – 7:00 PM (Monday–Saturday), closed on Sundays and Mondays.",
+    "tags": "xerox,stationery,locations,services"
+  },
+  {
+    "title": "Career Development Center (CDC)",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The Career Development Center (CDC) is located at the 3rd floor of Central Block (CB).\n2. Career Development Center (CDC) helps with placements, internships, and career counseling. Provides career counseling, job placement assistance, and internship opportunities.\n3. Operating hours: 9:00 AM – 6:00 PM (Monday–Saturday), closed on Sundays and Mondays.",
+    "tags": "career development,locations,students"
+  },
+  {
+    "title": "IT Services and Support",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The IT Services and Support center is located at the ground floor of AB2.\n2. Provides technical support, software installations, and network services.\n3. Operating hours: 9:00 AM – 6:00 PM (Monday–Saturday), closed on Sundays and Mondays.",
+    "tags": "it support,locations,technology"
+  },
+  {
+    "title": "Newton Hall",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Newton Hall is located at the 4th floor of AB1.\n2. It is used for guest lectures, workshops, and seminars.\n3. Equipped with modern audio-visual facilities.",
+    "tags": "lecture hall,locations,study"
+  },
+  {
+    "title": "Einstein Hall",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Einstein Hall is located at the 1st floor of AB1.\n2. Used for meetings, presentations, and small group discussions.\n3. Equipped with a projector and seating for 100+ people.",
+    "tags": "conference room,locations,meetings"
+  },
+  {
+    "title": "Incubation Center",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The Incubation Center is located at the 3rd Floor of Central Block (CB).\n2. Incubators provide a supportive ecosystem to help startups survive their challenging initial phases and grow into successful companies.\n3. Facilities include office space, mentorship, networking opportunities, and access to funding resources.\n4. Students and individuals with new business ideas can get the support they need to validate and develop their concepts. For more information, visit the Incubation Center or contact the administration office.",
+    "tags": "incubation center,locations,meetings"
+  }
+]

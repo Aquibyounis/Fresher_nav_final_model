@@ -1,0 +1,11 @@
+academics.json
+capstone.json
+clubs.json
+events_and_clubs.json
+general_info.json
+hostels.json
+locations.json
+placements.json
+startups.json
+vtop_procedures.json
+links.json

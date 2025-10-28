@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Hostel Rules Overview",
+    "category": "Hostels",
+    "type": "policy",
+    "text": "1. Hostel rules are strictly followed as per the guidelines provided at the beginning through email.\n2. Alcohol, smoking, or illegal substances are strictly prohibited.\n3. Keep your room and common areas clean. Cleaning the room daily is mandatory.\n4. Any violation will result in disciplinary action.\n5. Report any maintenance issues through the VTOP immediately.\n6. Use of electrical appliances like heaters, irons, and cooking devices is prohibited in rooms.",
+    "tags": "hostel,rules,policy,discipline,cleanliness"
+  },
+  {
+    "title": "Mess Timings and Food Options",
+    "category": "Hostels",
+    "type": "info",
+    "text": "1. Mess follows a fixed daily schedule: Breakfast (7:30 AM – 9:00 AM), Lunch (12:30 PM – 2:00 PM), Snacks (5:30 PM – 6:30 PM), Dinner (7:30 PM – 9:00 PM).\n2. Vegetarian, non-vegetarian and special menus are available.\n3. Monthly mess menu is displayed in hostel notice boards and sent to emails.\n4. For any food-related issues, contact the mess manager or mess committee.",
+    "tags": "mess,food,hostel,timings,menu"
+  },
+  {
+    "title": "Guest and Visitor Policy",
+    "category": "Hostels",
+    "type": "policy",
+    "text": "1. Day visitors are not allowed to the hostel premises.\n2. Visitors or guests must stay only at the guest house.\n3. Overnight stay for visitors is permitted in designated guest rooms only.",
+    "tags": "visitors,guest,hostel,warden"
+  },
+  {
+    "title": "Laundry Facilities in Hostels",
+    "category": "Hostels",
+    "type": "info",
+    "text": "1. Laundry services are available inside hostels with fixed number of slots.\n2. Students can give the laundry 4 times a month.\n3. Ironing services are available at additional cost.\n4. See the laundry attendant for any issues or special requests.\n5. Ensure to collect your clothes on time to avoid mix-ups.\n6. Count the clothes before giving the clothes for laundry.\n7. Hostel management is not responsible for any lost or damaged clothes.",
+    "tags": "laundry,services,hostel,facilities"
+  },
+  {
+    "title": "WiFi and Internet Access in Hostels",
+    "category": "Hostels",
+    "type": "info",
+    "text": "1. Hostel WiFi is accessible through student login credentials.\n2. Internet usage is monitored and misuse is prohibited.\n3. For WiFi complaints, raise a complaint through VTOP under IT Services.\n4. In case of any issue, contact CTS at CB-421 for assistance.\n5. Avoid sharing your login details with others.",
+    "tags": "wifi,internet,hostel,services"
+  },
+  {
+    "title": "Emergency Contacts and Procedures",
+    "category": "Hostels",
+    "type": "info",
+    "text": "1. In case of emergencies, contact the hostel warden or security immediately.\n2. Emergency contact numbers are displayed on every floor of hostel buildings.\n3. Follow the evacuation procedures during fire drills or emergencies.\n4. Report any suspicious activities to the hostel authorities.\n5. Keep emergency contact numbers saved in your phone for quick access.",
+    "tags": "emergency,contacts,hostel,procedures"
+  },
+  {
+    "title": "Room Allotment and Change Policy",
+    "category": "Hostels",
+    "type": "policy",
+    "text": "1. Room allotment is done based on the hostel counselling and as per the guidelines provided during admission.\n2. Requests for upgradation of rooms can be made through the recounselling but are subject to availability and valid reasons.\n3. Room changes are not guaranteed and may take time to process.\n4. All room changes must be approved by the hostel authority.\n5. Students must vacate their current room with their luggage before vacating.\n6. Failure to follow the room change procedure may result in penalties or denial of the request.",
+    "tags": "room,allotment,change,hostel,policy"
+  },
+  {
+    "title": "Hostel Fee Structure and Payment Methods",
+    "category": "Hostels",
+    "type": "info",
+    "text": "1. Hostel fees are to be paid at the beginning of each year as per the fee structure provided.\n2. Payment can be made only through online banking, UPI, or other online services.\n3. Late payments may incur additional fines as per the hostel rules.\n4. Keep the hostel allotment letter for submission during the allotment process.\n5. Ensure to keep a copy of the allotment letter and payment receipt for future reference.",
+    "tags": "hostel,fees,payment,structure"
+  },
+  {
+    "title": "Maintenance and Repair Requests",
+    "category": "Hostels",
+    "type": "info",
+    "text": "1. For any maintenance or repair issues in the hostel, students must raise a complaint through VTOP under the Maintenance section.\n2. Common issues include plumbing, electrical faults, furniture repairs, etc.\n3. Maintenance requests are prioritized based on urgency and reported time.\n4. Regular maintenance checks are conducted to ensure the safety and comfort of residents.\n5. Students are advised to report any damages or issues promptly to avoid further complications.",
+    "tags": "maintenance,repair,hostel,requests"
+  },
+  {
+    "title": "Events and Activities in Hostels",
+    "category": "Hostels",
+    "type": "info",
+    "text": "1. Regular events and activities are organized in hostels to promote community living and engagement by the hostel committee.\n2. Students are encouraged to participate in cultural, sports, and recreational activities.\n3. Suggestions for new events can be submitted to the hostel committee for consideration.\n4. Active participation in events can help in building a positive hostel environment.",
+    "tags": "events,activities,hostel,community"
+  },
+  {
+    "title": "Health and Safety Guidelines in Hostels",
+    "category": "Hostels",
+    "type": "policy",
+    "text": "1. Follow all health and safety guidelines provided by the hostel management.\n2. Maintain personal hygiene and cleanliness in rooms and common areas.\n3. Report any health issues to the hostel warden.\n4. Adhere to fire safety protocols and participate in fire drills.\n5. Use electrical appliances safely and avoid overloading sockets.\n6. In case of illness, visit the campus health center for medical assistance.",
+    "tags": "health,safety,hostel,guidelines"
+  },
+  {
+    "title": "Biometric Procedures",
+    "category": "Hostels",
+    "type": "info",
+    "text": "1. Biometric is mandatory for all hostel residents.\n2. Students must check-in and check-out using the biometric system at the designated logs.\n3. Failure to use the biometric system may result in penalties or disciplinary action.\n4. Biometric data is collected for attendance and security purposes only.\n5. Students must ensure their biometric data is up-to-date and accurate.",
+    "tags": "check-in,check-out,hostel,procedures,biometric"
+  },
+  {
+    "title": "Outing and Leave Policies",
+    "category": "Hostels",
+    "type": "info",
+    "text": "1. Students must obtain approval from both the mentor and warden for the leave and must be approved by the warden for the outing purpose.\n2. A leave or outing must be applied at least 48 hours in advance through vtop to get approval.\n3. Outings should take place only on Sundays and Mondays. Buses will be arranged for outings from 9:00 AM onwards and should return the last bus by 6:30 PM.\n4. Emergency leaves will be considered on a case-by-case basis.\n5. Failure to follow outing and leave policies may result in disciplinary action.",
+    "tags": "outing,leave,policies,hostel"
+  },
+  {
+    "title": "Personal Belongings policy",
+    "category": "Hostels",
+    "type": "info",
+    "text": "1. Students are requested not to bring any electronic items to the hostel.\n2. Unusual items found in the hostel will be confiscated and not returned.",
+    "tags": "personal belongings,hostel"
+  },
+  {
+    "title": "Night Canteen Timings",
+    "category": "Hostels",
+    "type": "info",
+    "text": "1. The night canteen operates from 10:00 PM to 12:00 AM daily.\n2. Students must present their hostel ID cards to the security to access the night canteen in case of other hostel blocks.\n3. Students are required to return to their hostel blocks before 12:00 AM.",
+    "tags": "night canteen,timings,hostel"
+  }
+]

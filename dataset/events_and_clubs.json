@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Freshers' Welcome Event",
+    "category": "Events",
+    "type": "info",
+    "text": "1. Freshers' Welcome is organized at the beginning of the academic year.\n2. Includes cultural performances, ice-breaking sessions, and introduction to student clubs.\n3. Participation is open to all first-year students.\n4. Registration details are shared via email.",
+    "tags": "freshers,welcome,cultural,events"
+  },
+  {
+    "title": "Technical Fest - VTAPP",
+    "category": "Events",
+    "type": "info",
+    "text": "1. Technical Fest - VTAPP is the flagship technical festival of VIT-AP.\n2. Features hackathons, coding contests, paper presentations, workshops, and gaming competitions.\n3. Open to students from all programs.\n4. Registrations are handled through the VTAPP portal and announcements are made via email.",
+    "tags": "techfest,technical,workshops,competitions"
+  },
+  {
+    "title": "DJ - Night",
+    "category": "Events",
+    "type": "info",
+    "text": "1. DJ - Night is held frequently as part of college celebrations.\n2. Includes dance, music, and entertainment performances.\n3. An open event for all students.\n4. Announcements regarding the event are made via email.",
+    "tags": "dj-night,performances,events"
+  },
+  {
+    "title": "VITOPIA - Sports and Cultural Fest",
+    "category": "Events",
+    "type": "info",
+    "text": "1. VITOPIA is the annual sports and cultural fest of VIT-AP.\n2. Features a variety of sports competitions, cultural performances, and fun activities.\n3. The event includes Prime and Non-Prime events. Open to all students and staff.\n4. Announcements regarding events and schedules are made via email.",
+    "tags": "vitopia,sports,cultural,events"
+  },
+  {
+    "title": "Independence Day Celebration",
+    "category": "Events",
+    "type": "info",
+    "text": "1. Independence Day is celebrated on August 15 with flag hoisting in front of Central Block (CB).\n2. Includes patriotic songs, and speeches by the guests.\n3. All students and staff are invited to participate.",
+    "tags": "independence-day,patriotic,celebration,events"
+  },
+  {
+    "title": "Republic Day Celebration",
+    "category": "Events",
+    "type": "info",
+    "text": "1. Republic Day is celebrated on January 26 with flag hoisting in front of Central Block (CB).\n2. Includes cultural performances and speeches by the guests.\n3. All students and staff are invited to participate.",
+    "tags": "republic-day,patriotic,celebration,events"
+  },
+  {
+    "title": "Invitation to Club Activities",
+    "category": "Clubs",
+    "type": "info",
+    "text": "1. Various student clubs are active on campus, including technical, cultural, and sports clubs.\n2. Clubs organize regular meetings, workshops, and events.\n3. Students are encouraged to join clubs that align with their interests.\n4. Information about club activities is shared via email and notice boards. \n5. It is mandatory to join at least one club for every student to gain the credits in the campus through course registration.",
+    "tags": "clubs,activities,student,events"
+  },
+  {
+    "title": "Club Membership and Participation",
+    "category": "Clubs",
+    "type": "info",
+    "text": "1. Students can join clubs during the club registration period at the start of each semester.\n2. Membership is open to all students, and some clubs may have specific eligibility criteria.\n3. Active participation in club activities is encouraged for personal growth and networking.\n4. Club events are announced via email, social media, and notice boards.",
+    "tags": "club,membership,participation,students"
+  },
+  {
+    "title": "Participation in sports events",
+    "category": "Events",
+    "type": "info",
+    "text": "1. Students can participate in various sports events organized throughout the year.\n2. Sports events include inter-departmental and inter-college competitions as well as intramural leagues.\n3. Details are shared via email by the sports club.\n4. Participation helps in physical fitness and team-building skills.",
+    "tags": "sports,events,participation,students"
+  },
+  {
+    "title": "Cultural Events and Festivals",
+    "category": "Events",
+    "type": "info",
+    "text": "1. Cultural events and festivals are organized to celebrate diversity and promote cultural exchange.\n2. Events include dance, music, drama, and art exhibitions.\n3. Students are encouraged to participate and showcase their talents.\n4. Announcements regarding events are made via email and notice boards.",
+    "tags": "cultural,events,festivals,students"
+  }
+]

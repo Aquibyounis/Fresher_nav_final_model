@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Campus Overview and Map",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. VIT-AP University campus includes Academic Blocks (AB1, AB2, Central Block), hostels, library, SAC (Student Activity Center), and sports facilities.\n2. A digital campus map is available on the VIT-AP website and VTOP for navigation.\n3. Sign boards are placed across campus to guide students and visitors.",
+    "tags": "campus,map,overview,general"
+  },
+  {
+    "title": "Reaching VIT-AP University",
+    "category": "General Info",
+    "type": "policy",
+    "text": "1. VIT-AP is located in Amaravati, Andhra Pradesh, India.\n2. Nearest railway stations: Vijayawada (30 km), Guntur (20 km).\n3. Nearest airport: Gannavaram Airport (35 km).\n4. Local transport options include buses, taxis, and auto-rickshaws are available to reach the campus. \n5. Buses from Vijayawada (Platform number 42 and 43 at Vijayawada Bus Stand) and Guntur go directly to the AP Secretariat(Sachivalayam). From there, local transport is available to the campus.\n6. Moreover a direct bus is available daily from Vijayawada to the campus at 7.30 AM and 4.00 PM. And from the campus to Vijayawada, the timings are 9.00 AM and 5.30 PM.\n7. Students are advised to plan their travel in advance and use registered transport services.",
+    "tags": "location,travel,transport,general"
+  },
+  {
+    "title": "Campus Security and Safety",
+    "category": "General Info",
+    "type": "policy",
+    "text": "1. The campus is secured with 24/7 security personnel and CCTV surveillance.\n2. Students must carry their ID cards at all times for identification.\n3. In case of emergencies, contact campus security or use emergency contact numbers displayed across campus.\n4. Follow all safety protocols and report any suspicious activities to the authorities immediately.",
+    "tags": "security,safety,policy,general"
+  },
+  {
+    "title": "Finding Classrooms and Labs",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. Classrooms and labs are located in various academic blocks across the campus.\n2. The classroom numbers can be found in the timetable provided at the start of the semester in VTOP. \n3. And the timings and schedule is also available in VTOP. Students should check their timetable regularly for any updates.\n4. For any confusion, students can ask for directions from campus security or staff members.",
+    "tags": "classrooms,labs,facilities,general"
+  },
+  {
+    "title": "Transport Services",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. VIT-AP provides bus services connecting Vijayawada, Guntur, and nearby towns for day-scholar students.\n2. Students must register for transport services at the start of the semester.\n3. Bus routes and timings are shared via email.\n4. ID card is mandatory to use the campus bus service.",
+    "tags": "transport,bus,services,general"
+  },
+  {
+    "title": "Cafeterias and Dining Options",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. Apart from hostel mess facilities, students can access cafeterias and food courts across campus.\n2. Food Street (behind Central Block), Rock Plaza (beside SAC), and Maggi Hotspot operate during working hours.\n3. Both vegetarian and non-vegetarian options are available.",
+    "tags": "cafeteria,food,dining,general"
+  },
+  {
+    "title": "ID Card Usage",
+    "category": "General Info",
+    "type": "policy",
+    "text": "1. The student ID card is mandatory for entry into campus, hostels, library, and examination halls.\n2. Students must carry their ID card at all times on campus.\n3. Lost ID cards must be reported immediately, and a replacement can be obtained through the Student Record Section.",
+    "tags": "id card,policy,general"
+  },
+  {
+    "title": "Emergency and Health Services",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. Emergency ambulance services are available on campus 24/7.\n2. Health Center provides first aid and consultations during working hours.\n3. Emergency contact numbers are displayed in all academic blocks and hostels.",
+    "tags": "emergency,health,services,general"
+  },
+  {
+    "title": "Lost and Found Procedure",
+    "category": "General Info",
+    "type": "procedure",
+    "text": "1. Any lost items found should be deposited at the Security Office in Central Block.\n2. Students who lose belongings can check with Security by providing details of the item.\n3. Unclaimed items are recorded and kept at the Student Record Section.",
+    "tags": "lost and found,procedure,general"
+  },
+  {
+    "title": "Banking & Postal Services",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. The campus has a bank branch(Indian Bank) and ATMs for students' convenience.\n2. Postal services are available for sending and receiving mail and packages.\n3. Students can access these services during working hours.",
+    "tags": "banking,postal services,general"
+  },
+  {
+    "title": "Wi-Fi & Internet Access",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. Wi-Fi is available across the campus for students and staff.\n2. There are two different wifi networks: one for campus and one for hostels.\n3. Students must use their institutional email IDs to access the Wi-Fi networks.\n4. For any connectivity issues, students can contact CTS at CB 421.",
+    "tags": "wifi,internet,access,general"
+  },
+  {
+    "title": "VIT-AP University Website",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. The official VIT-AP University website (https://vitap.ac.in) provides comprehensive information about the university, including admissions, academics, departments, research, and campus life.\n2. Students should regularly check the website for updates and announcements.",
+    "tags": "website,info,general"
+  },
+  {
+  "title": "University Guest House",
+  "category": "General Info",
+  "type": "info",
+  "text": "VIT-AP University maintains a Guest House for visiting faculty, guests, and visitors. Reservations can be made via the official university guesthouse portal. The guest house is located on campus and offers lodging facilities for official visitors or guests attending events.",
+  "tags": "guest house,visitors,accommodation,facilities"
+  }
+]

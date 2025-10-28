@@ -1,0 +1,138 @@
+[
+  {
+    "title": "VIT-AP Official Website",
+    "category": "Links",
+    "type": "info",
+    "text": "Official website of VIT-AP University with information on academics, admissions, news, and updates.",
+    "url": "https://vitap.ac.in",
+    "tags": "website,official,university,info"
+  },
+  {
+    "title": "VTOP (VIT Online Portal)",
+    "category": "Links",
+    "type": "portal",
+    "text": "VTOP is the official student portal for academics, course registration, attendance, leave, exams, fee payment, and more.",
+    "url": "https://vtop.vitap.ac.in",
+    "tags": "VTOP,portal,academics,student"
+  },
+  {
+    "title": "CDC Portal",
+    "category": "Links",
+    "type": "portal",
+    "text": "Career Development Center portal for placement registration, company updates, and career guidance. \n(Note: CDC portal is accessible only to final year students.)",
+    "url": "https://cdc.vit.ac.in",
+    "tags": "CDC,placements,career,portal"
+  },
+  {
+    "title": "VIT-AP Freshers Portal",
+    "category": "Links",
+    "type": "support",
+    "text": "Contact the VIT-AP Freshers Portal for assistance with onboarding, orientation, and other support services for new students.",
+    "url": "https://web.vitap.ac.in/FreshersPortal",
+    "tags": "freshers,portal,support,students"
+  },
+  {
+    "title": "Academic Research Portal",
+    "category": "Links",
+    "type": "portal",
+    "text": "Access the Academic Research Portal for research resources, publications, and collaboration opportunities.",
+    "url": "https://vitap.ac.in/academic-research",
+    "tags": "research,academic,portal,resources"
+  },
+  {
+    "title": "VIT-AP Events",
+    "category": "Links",
+    "type": "social",
+    "text": "Stay updated with the latest events, workshops, and seminars happening at VIT-AP through the official events page.",
+    "url": "https://events.vitap.ac.in",
+    "tags": "events,clubs,chapters,workshops,seminars"
+  },
+  {
+    "title": "VIT-AP Schools and Departments",
+    "category": "Links",
+    "type": "info",
+    "text": "Access information about the various schools and departments at VIT-AP, including faculty details, courses offered, and research initiatives.",
+    "url": "https://vitap.ac.in/allschools",
+    "tags": "schools,departments,faculty,courses,research"
+  },
+  {
+    "title": "VIT-AP Campus Life",
+    "category": "Links",
+    "type": "info",
+    "text": "Explore the VIT-AP Campus Life portal for information on student activities, clubs, and campus facilities.",
+    "url": "https://vitap.ac.in/campuslife",
+    "tags": "campus,life,students,activities,clubs"
+  },
+  {
+    "title": "Clubs and Chapters",
+    "category": "Links",
+    "type": "info",
+    "text": "Access information about the various clubs and chapters at VIT-AP, including their activities, events, and membership details.",
+    "url": "https://vitap.ac.in/clubs-and-chapters",
+    "tags": "clubs,chapters,activities,events,students"
+  },
+  {
+    "title": "VIT-AP Guest House Booking",
+    "category": "Links",
+    "type": "portal",
+    "text": "Access the VIT-AP Guest House Booking portal for accommodation details, booking procedures, and related information.",
+    "url": "https://vitap.ac.in/guesthouse",
+    "tags": "guesthouse,portal,accommodation,booking"
+  },
+  {
+    "title": "VIT-AP faculty ranker",
+    "category": "Links",
+    "type": "info",
+    "text": "Access the VIT-AP faculty ranker for information on faculty profiles, research interests, and academic contributions.",
+    "url": "https://faculty-ranker.vercel.app/showFaculty",
+    "tags": "faculty,ranker,profiles,research,academics"
+  },
+  {
+    "title": "VIT-AP Youtube Channel",
+    "category": "Links",
+    "type": "portal",
+    "text": "Access the VIT-AP Youtube Channel for video lectures, tutorials, and campus events.",
+    "url": "https://www.youtube.com/@VITAP",
+    "tags": "youtube,portal,video,lectures,tutorials"
+  },
+  {
+    "title": "VIT-AP Instagram",
+    "category": "Links",
+    "type": "social",
+    "text": "Follow VIT-AP on Instagram for the latest updates, events, and campus life highlights.",
+    "url": "https://www.instagram.com/vitap.university",
+    "tags": "instagram,social,updates,events,campus"
+  },
+  {
+    "title": "VIT-AP LinkedIn",
+    "category": "Links",
+    "type": "social",
+    "text": "Follow VIT-AP on LinkedIn for professional updates, networking opportunities, and industry news.",
+    "url": "https://www.linkedin.com/school/vitap-university",
+    "tags": "linkedin,social,professional,networking,industry"
+  },
+  {
+    "title": "Vitopia: Sports and Cultural Event Website",
+    "category": "Links",
+    "type": "social",
+    "text": "Follow Vitopia for the latest updates on sports and cultural events at VIT-AP.",
+    "url": "https://vitopia.vitap.ac.in",
+    "tags": "vitopia,sports,cultural,events"
+  },
+  {
+    "title": "VTAPP Technical Event Website",
+    "category": "Links",
+    "type": "social",
+    "text": "Follow VTAPP for the latest updates on technical events and workshops at VIT-AP.",
+    "url": "https://vtapp.vitap.ac.in",
+    "tags": "vtapp,social,updates,events,workshops"
+  },
+  {
+    "title": "VIT-AP Faculty Information",
+    "category": "Links",
+    "type": "info",
+    "text": "Access information about VIT-AP faculty members, including their profiles, research interests, and publications.",
+    "url": "https://vitap.ac.in/allfaculty",
+    "tags": "faculty,information,profiles,research,publications"
+  }
+]

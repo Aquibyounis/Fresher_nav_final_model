@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Course Registration Process",
+    "category": "Academics",
+    "type": "procedure",
+    "text": "1. Find the link for Course Registration which was sent to your registered college emailID.\n2. Log in using your VTOP credentials at the time of registration.\n3. Select the courses and the faculty you wish to register for the semester.\n4. Confirm your selection and submit.\n5. Check for any prerequisites or corequisites before finalizing your registration.\n6. Make sure to complete the registration within the specified deadline.\n7. There will be an add/drop period after the first week of classes to make changes to your course selection.\n8. Change the slot or faculty for a registered course, subject to availability, during the add/drop period.",
+    "tags": "course,registration,vtop,academics,add/drop"
+  },
+  {
+    "title": "Credits and GPA Calculation",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. Each subject carries credits as per curriculum.\n2. GPA is calculated as the sum of (credits × grade points) divided by total registered credits.\n3. CGPA is the cumulative GPA across all semesters.\n4. Minimum GPA/CGPA requirements vary by program as per academic regulations.\n5. VIT follows relative grading system; grade points are assigned based on class performance.\n6. Check your GPA/CGPA regularly on VTOP under the 'Academic' section.\n7. Maintain a good academic standing by meeting the minimum credit requirements each semester.",
+    "tags": "gpa,cgpa,credits,academics,relative grading"
+  },
+  {
+    "title": "Revaluation of Exam Papers",
+    "category": "Academics",
+    "type": "procedure",
+    "text": "1. After results are published, revaluation requests can be submitted through VTOP.\n2. Pay the prescribed revaluation fee online.\n3. Select the subject(s) for revaluation and submit.\n4. Results will be updated on VTOP once evaluation is complete.",
+    "tags": "revaluation,exams,results,academics"
+  },
+  {
+    "title": "Supplementary or Arrear Exams",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. Students with arrears must register for supplementary exams via VTOP.\n2. Check the registration dates announced in the academic calendar.\n3. Pay the exam fee and download the hall ticket.\n4. Results will be published under the 'Examination' section in VTOP.",
+    "tags": "arrears,exams,supplementary,academics"
+  },
+  {
+    "title": "Attendance Requirements",
+    "category": "Academics",
+    "type": "policy",
+    "text": "1. A minimum of 80% attendance is required in each course to be eligible for CAT/FAT exams.\n2. Students with attendance between 65%–75% may apply for attendance relaxation with valid reasons.\n3. Below 65% attendance → ineligible to write the CAT/FAT exams.\n4. Attendance details are regularly updated in VTOP.",
+    "tags": "attendance,policy,academics,eligibility"
+  },
+    {
+        "title": "Academic Calendar and Important Dates",
+        "category": "Academics",
+        "type": "info",
+        "text": "1. The academic calendar is available on the official VIT website and VTOP portal.\n2. It includes important dates such as semester start/end, exam periods, holidays, and registration deadlines.\n3. Regularly check the calendar to stay updated on academic schedules.\n4. Plan your studies and activities around these dates to avoid conflicts.",
+        "tags": "academic calendar,important dates,academics,schedule"
+    },
+    {
+        "title": "Internship and Project Guidelines",
+        "category": "Academics",
+        "type": "info",
+        "text": "1. Internships are mandatory for certain programs; check your curriculum for details.\n2. Register for internships through VTOP and get approval from your department.\n3. Submit a report and presentation at the end of your internship/project as per guidelines.",
+        "tags": "internship,project,guidelines,academics"
+    },
+    {
+        "title": "Examination Rules and Conduct",
+        "category": "Academics",
+        "type": "policy",
+        "text": "1. Follow all examination rules as outlined in the student handbook.\n2. Carry your ID card and necessary things to the examination hall.\n3. Electronic devices are strictly prohibited in the exam hall.\n4. Any form of malpractice will lead to strict disciplinary action.",
+        "tags": "examination,rules,conduct,academics"
+    },
+    {
+        "title": "Library Resources and Access",
+        "category": "Academics",
+        "type": "info",
+        "text": "1. The library offers a wide range of resources including books, journals, and digital materials.\n2. Access to library resources is available through your student ID.\n3. Use the online catalog to search for books and other materials.\n4. Follow library rules regarding borrowing and returning items on time.",
+        "tags": "library,resources,access,academics"
+    },
+    {
+        "title": "Transcript and Certification Requests",
+        "category": "Academics",
+        "type": "info",
+        "text": "1. Requests for transcripts and certificates must be made through the VTOP portal.\n2. Provide all necessary details and the purpose of the request.\n3. There may be a processing fee for transcript requests.\n4. Check the VTOP portal for estimated processing times.",
+        "tags": "transcript,certification,requests,academics"
+    },
+    {
+        "title": "Course Withdrawal and Drop Policies",
+        "category": "Academics",
+        "type": "policy",
+        "text": "1. Students may withdraw from a course without penalty after the CAT-1 examinations.\n2. There will be getting an email notification regarding the withdrawal process.\n3. Dropping a course is allowed as per university rules and may affect credit load but not your CGPA if withdrawn before deadline.",
+        "tags": "course withdrawal,drop policies,academics"
+    },
+    {
+        "title": "Credit distribution and Electives",
+        "category": "Academics",
+        "type": "policy",
+        "text": "1. Understand the credit distribution for your program and plan your courses accordingly.\n2. Elective courses can be chosen based on your interests and career goals.\n3. There are four categories such as University Core, Program Core, University Elective, and Program Elective.\n4. Ensure to meet the credit requirements for graduation as per your curriculum. \n5. Core courses are mandatory, while electives offer flexibility.",
+        "tags": "credit distribution,electives,academics"
+    },
+    {
+        "title": "CGPA for Attendance Relaxation",
+        "category": "Academics",
+        "type": "info",
+        "text": "1. Maintain a CGPA of 9.0 or above to be eligible for attendance relaxation.\n2. Attendance requirements are not applicable for students with a CGPA of above 9.0.\n3. Keep getting a CGPA of 9.0 or above to avail this benefit in subsequent semesters.",
+        "tags": "CGPA,attendance relaxation,academics"
+    },
+    {
+        "title": "VTOP Academic Portal Usage",
+        "category": "Academics",
+        "type": "info",
+        "text": "1. VTOP is the primary portal for all academic activities including course registration, exam results, and attendance tracking.\n2. Regularly check VTOP for updates on academic schedules, notifications, and announcements.\n3. Use the portal to access study materials, submit assignments, and communicate with faculty.",
+        "tags": "VTOP,academic portal,usage,academics"
+    },
+    {
+        "title": "College Wifi Access and Usage",
+        "category": "Academics",
+        "type": "info",
+        "text": "1. The college provides wifi access to all students and staff.\n2. Users must connect to the official college network with their student unique wifi credentials and do not share them with others.\n3. Internet usage should be primarily for academic purposes.",
+        "tags": "wifi,access,usage,info,academics"
+    },
+    {
+        "title": "Missing or Lost ID Card Procedure",
+        "category": "Academics",
+        "type": "procedure",
+        "text": "1. Report the missing or lost ID card to the campus security office immediately.\n2. Provide necessary details such as your name, registration number, and mobile number.\n3. An amount of Rs.500 needs to be paid for reissuing a new ID card.\n4. Collect the new ID card from the Student Record Section at AB1 321.\n5. Ensure to carry your ID card at all times on campus for identification and access to facilities.",
+        "tags": "ID card,missing,procedure,academics"
+    },
+    {
+        "title": "Sports Facilities",
+        "category": "Academics",
+        "type": "info",
+        "text": "1. The college provides various sports facilities for students including a gymnasium, sports fields, and indoor courts.\n2. The gymnasium and the indoor sports are available at Student Activity Center(SAC building).\n3. Proper sports attire is required while using the facilities in SAC.",
+        "tags": "sports facilities,info,academics"
+    },
+    {
+        "title": "Health Services and Medical Facilities",
+        "category": "Academics",
+        "type": "info",
+        "text": "1. The college offers health services and medical facilities to support student well-being.\n2. Students can access medical consultations, health check-ups, and emergency services through the campus health center available at AB1 Ground Floor.\n3. All services are confidential and free of charge for enrolled students.\n4. In case of medical emergencies, contact campus security or visit the health center immediately and the health center is open from 9 AM to 5 PM on all working days.\n5. They also provide ambulance services all over the campus in case of emergencies.",
+        "tags": "health services,medical facilities,academics"
+    },
+    {
+        "title": "Certificates and Document submission for freshers",
+        "category": "Academics",
+        "type": "info",
+        "text": "1. Freshers are required to submit their certificates and documents for verification.\n2. The submission can be done at the Student Record Section.\n3. Ensure all documents are attested and in the required format.",
+        "tags": "certificates,document submission,freshers,academics"
+    }
+]

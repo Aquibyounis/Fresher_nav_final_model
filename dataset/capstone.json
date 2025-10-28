@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Capstone Project Registration",
+    "category": "Capstone",
+    "type": "procedure",
+    "text": "1. Capstone Project can be registered only in the 4th year during course registration.\n2. Students must submit the Capstone Project Proposal format to their guide for approval to complete the registration process.\n3. If a student has no other courses to register (only Capstone remaining), they may be permitted to carry out the project outside the University (industry, government/private organization, academic or research institution).\n4. For projects outside the University, there must be both an external guide (from the organization) and an internal guide (from the School the student belongs to).",
+    "tags": "capstone,registration,procedure,course,proposal"
+  },
+  {
+    "title": "Capstone Project Guidelines",
+    "category": "Capstone",
+    "type": "policy",
+    "text": "1. Projects must be innovative and related to the programme specialization.\n2. Projects are expected to have hardware implementation along with any software component. If not, they must include significant design aspects with real-world applications.\n3. Submitting purchased, borrowed, or reused projects (from another institution) is malpractice. This will result in an 'F' grade and the student must re-register and complete the project in a later semester.\n4. Failure or absence in the final viva-voce examination results in re-registration of the project.\n5. If additional equipment is required beyond what the University provides, students must bear the costs themselves or use research grants available with the guide.\n6. Capstone projects must be executed for a minimum of one semester to qualify for credits under UC of the curriculum.",
+    "tags": "capstone,guidelines,policy,innovation,malpractice"
+  },
+  {
+    "title": "Capstone Attendance and Monitoring",
+    "category": "Capstone",
+    "type": "policy",
+    "text": "1. Daily attendance reports must be maintained in the School office. In special cases, the guide may maintain a digital attendance record.\n2. Programme Chairs/HoDs will monitor the smooth conduct of reviews and consolidate marks for each stage.\n3. Under exceptional circumstances, students may attend reviews online with prior permission from the guide and Programme Chair.",
+    "tags": "capstone,attendance,monitoring,HoD"
+  },
+  {
+    "title": "Capstone Evaluation Process",
+    "category": "Capstone",
+    "type": "info",
+    "text": "1. The final project report will be evaluated by a panel consisting of the Programme Chair (as Chairman), External Examiner, three Internal Experts, and the Guide. An oral viva-voce will follow.\n2. The Dean of the programme School nominates the evaluation committee members.\n3. Absolute grading will be applied for Capstone evaluation.",
+    "tags": "capstone,evaluation,reviews,grading,viva"
+  },
+  {
+    "title": "Capstone Project Review Schedule",
+    "category": "Capstone",
+    "type": "info",
+    "text": "1. First Review: End of the 1st month of the semester (10 marks)\n2. Second Review: End of the 2nd month of the semester (20 marks)\n3. Final Review: End of the semester (40 marks)\n4. Project Report Submission: End of the semester (20 marks)",
+    "tags": "capstone,review,schedule,marks"
+  },
+  {
+    "title": "Capstone Project Report Submission",
+    "category": "Capstone",
+    "type": "procedure",
+    "text": "1. The final project report must include all codes, standards, and software tools used in the project.\n2. Students must submit a digital copy (single PDF file) of the final report to both the guide and the School office via VTOP.\n3. The final grade will be generated only after the digital report submission is complete.\n4. Programme Chairs/HoDs will share the format for the final report separately.",
+    "tags": "capstone,report,submission,VTOP"
+  },
+  {
+    "title": "Best Capstone Project Award",
+    "category": "Capstone",
+    "type": "info",
+    "text": "1. An Evaluation Committee consisting of all Deans will judge one project as the 'Best Capstone Project' if it demonstrates outstanding outcomes.\n2. The Best Capstone Project award will be presented during University Day celebrations.",
+    "tags": "capstone,award,best project,recognition"
+  }
+]
