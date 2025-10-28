@@ -205,8 +205,12 @@ def ask_question(q: Question, request: Request):
     answer = run_query(q.question, memory)
 
     session_info["last_active"] = time.time()
-
+    if not answer or answer is None:
+        answer = ""
+    else:
+        answer = str(answer).replace("undefined", "").replace("None", "").strip()
     return {"answer": answer, "session_id": session_id}
+
 
 
 @app.get("/")
