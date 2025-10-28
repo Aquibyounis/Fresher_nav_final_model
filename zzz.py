@@ -58,7 +58,7 @@ def get_filter_from_question(question: str) -> dict | None:
         return {"category": "Hostels"}
     elif "startup" in q:
         return {"category": "Startups"}
-    elif any(keyword in q for keyword in ["guest", "guest bedroom", "guestbedroom", "guest house","guesthouse"]):
+    elif "guest" in q:
         return {"category": "GuestHouse"}
     return None
 
