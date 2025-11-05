@@ -134,5 +134,13 @@
     "text": "Access information about VIT-AP faculty members, including their profiles, research interests, and publications.",
     "url": "https://vitap.ac.in/allfaculty",
     "tags": "faculty,information,profiles,research,publications"
+  },
+  {
+    "title": "VIT-AP Faculty Information",
+    "category": "Links",
+    "type": "info",
+    "text": "Access information about VIT-AP CDC, Courses and placement teams.",
+    "url": "https://vitap.ac.in/cdc-office",
+    "tags": "faculty,information,research,CDC,Campus,mainlink"
   }
 ]

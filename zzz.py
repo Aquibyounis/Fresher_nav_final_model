@@ -101,12 +101,12 @@ def run_query(query: str, memory: ConversationBufferMemory) -> str:
 
     # Handle greetings and farewells
     greetings = ["hi", "hello", "hey", "hola", "how are you", "what's up"]
-    farewells = ["bye", "goodbye", "see you", "adios", "tata"]
+    farewells = ["bye", "goodbye", "see you", "adios", "tata","fine","thank you","thanks","okay","okie","ok"]
 
     if q_lower in greetings:
         return llm.invoke(f"System: Respond casually and warmly to this greeting with 2-3 emojies : '{query}'")
     if q_lower in farewells:
-        return llm.invoke("System: Respond with a friendly 2-line farewell message.")
+        return llm.invoke(f"System: Respond with a friendly 2-line farewell message : '{query}' ")
 
     # Retrieve relevant context
     filter_metadata = get_filter_from_question(query)
