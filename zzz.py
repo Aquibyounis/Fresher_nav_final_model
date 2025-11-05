@@ -10,6 +10,9 @@ from langchain_community.llms import Ollama
 from langchain.memory import ConversationBufferMemory
 import re
 import logging
+import time
+start = time.time()
+
 
 # --- Setup Logging ---
 logging.basicConfig(level=logging.INFO)
@@ -66,9 +69,10 @@ def build_prompt(context: str, question: str, chat_history: str) -> str:
     template = """
 SYSTEM:
 You are "CampusGuide," a friendly AI assistant for VIT-AP students.
-Respond naturally, like a fellow student, and answer neatly in 3 lines max.
+Respond naturally, like a fellow student, and answer neatly in 3 lines max with 2-3 emojies.
 
 Rules:
+- Answer only what is asked and dont unnesesarily say anything.
 - Keep tone conversational and helpful.
 - Use CONTEXT for VIT-AP related questions.
 - If CONTEXT is empty, say you don’t have info and suggest official sources.
@@ -100,7 +104,7 @@ def run_query(query: str, memory: ConversationBufferMemory) -> str:
     farewells = ["bye", "goodbye", "see you", "adios", "tata"]
 
     if q_lower in greetings:
-        return llm.invoke(f"System: Respond casually and warmly to this greeting: '{query}'")
+        return llm.invoke(f"System: Respond casually and warmly to this greeting with 2-3 emojies : '{query}'")
     if q_lower in farewells:
         return llm.invoke("System: Respond with a friendly 2-line farewell message.")
 
@@ -217,3 +221,5 @@ def ask_question(q: Question, request: Request):
 def root():
     """Health check endpoint."""
     return {"message": "✅ VIT-AP CampusGuide API is running."}
+
+print(f"BOOT TIME: {time.time() - start:.2f}s")
